@@ -22,6 +22,8 @@ Design User View:
 
 UML Diagram:
 
+![UML Diagram](MLChess.png)
+
 MinMax Algorithm:
   * Recursive algorithm that evaluates all possible moves for an AI and chooses the best one
     * Performs depth-first search on game tree of possible moves
