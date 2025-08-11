@@ -1,6 +1,8 @@
 # ChessEngine
 Chess Project I made in HS 2023. Created Engine + GUI in Java. Made AI w/ MinMax Algorithm
 
+![Test Engine Screenshot](TestEngineTest.png)
+
 Goals:
   * Show inheritance between a ‘Piece’ class and each specific type of piece like Pawn
   * To create a working chess engine with graphics
